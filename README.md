@@ -12,8 +12,8 @@ This is a simple **ToDo App** built with Flutter that allows users to create and
 ## How to Run
 1. **Clone the repository**:
 
-   git clone <repository_url>
-   cd todo_app
+git clone https://github.com/SsergioNM/todo_app.git
+cd todo_app
 
 2. **Install dependencies**: Make sure you have Flutter installed on your system. Then run the following command in the root of the project to install the dependencies: flutter pub get
 
